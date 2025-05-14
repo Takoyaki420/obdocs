@@ -1,12 +1,16 @@
 # Solis
 
-Ori works. Kill 1 boss at a time to get double loot every kill. Igne cannot kill.
+Solis is a new end-game solo boss, and is the god of the sun. The sun provides all energy that keeps divination wisps and memories alive, he's also the god of divination.
+
+Ori works. Kill 1 boss at a time to get double loot every kill. Igne tame cannot kill.
 
 ### Requirements
 
-You need a maxed igne tame to attempt kills at Solis. This includes feeding your tame all items and having 2 gorajan gear equipped.&#x20;
+It has high requirements, including very good attack-stab melee gear (Gorajan, drygore rapier, offhand spidergore rapier), a maxed igne tame, 2500 quest points and a combatant's cape (500m xp in all combat stats). 
 
-Uses heat res pots
+This includes feeding your tame all items and having 2 gorajan gear equipped.&#x20;
+
+Uses heat res. pots
 
 ### Loot
 
